@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Past work experience:
+Work experience:
 
+ - General Electric
  - Rackspace
  - DreamWorks Animation
  - The MathWorks

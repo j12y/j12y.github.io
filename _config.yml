@@ -1,17 +1,9 @@
 # Site settings
-title: DeLancey Works
-email: jayson@delancey.work
-description: > # this means to ignore newlines until "baseurl:"
-  Some details on my projects, work experience, etc.
+title: DeLancey's Work
+email: 
+description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://github.delancey.work" # the base hostname & protocol for your site
-twitter_username: jtwelvey
+twitter_username: jaysondelancey
 github_username:  j12y
 
-# Build settings
-markdown: kramdown
-gems:
- - jekyll-mentions
- - jemoji
- - jekyll-redirect-from
- - jekyll-sitemap
